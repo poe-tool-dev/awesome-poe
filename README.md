@@ -96,11 +96,6 @@
   <td></td>
   <td></td>
 </tr>
-<tr>
-  <td>🌐 <a href="https://www.poecompanion.com">poecompanion.com</a></td>
-  <td></td>
-  <td></td>
-</tr>
 
 
 <tr>
@@ -133,6 +128,11 @@
 </tr>
 <tr>
   <td>🌐 <a href="http://poesyn.xyz/passives">poesyn.xyz - Leveling Guide</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Halkreen/poe-secondscreen#readme">PoE : Second Screen</a> — <a href="https://github.com/Halkreen/poe-secondscreen">Source</a></td>
   <td></td>
   <td></td>
 </tr>
@@ -218,6 +218,31 @@
 </tr>
 <tr>
   <td>🖥 <a href="https://github.com/Nickswoboda/tab-appraiser#readme">Tab Appraiser</a> — <a href="https://github.com/Nickswoboda/tab-appraiser">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+<tr>
+  <td colspan="3"><br><br><b>Other trade optimizing tools</b></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/kosace/EnhancePoEApp#features">Chaos Recipe Enhancer</a> — <a href="https://github.com/kosace/EnhancePoEApp">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/CLOUGH/poe-recipe#screenshots">Another Chaos recipe</a> — <a href="https://github.com/CLOUGH/poe-recipe">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://xanthics.github.io/PoE_Weighted_Search/">PoE Weighted Search</a> — <a href="https://github.com/xanthics/PoE_Weighted_Search">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.poeprofit.com">Profitability of farmable encounters</a></td>
   <td></td>
   <td></td>
 </tr>
@@ -477,13 +502,13 @@
   <td></td>
 </tr>
 <tr>
-  <td>🌐 <a href="https://xanthics.github.io/PoE_Weighted_Search/">PoE Weighted Search</a> — <a href="https://github.com/xanthics/PoE_Weighted_Search">Source</a></td>
-  <td>✔</td>
+  <td>🖥 <a href="https://www.reddit.com/r/pathofexile/comments/nmuk64/releasing_the_tool_i_used_to_make_stash_art/">Stashify, stash art using item images</a> — <a href="https://github.com/jaymrobinson/PoETools">Source</a></td>
+  <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>🌐 <a href="https://www.poeprofit.com">Profitability of farmable encounters</a></td>
-  <td></td>
+<td>🖥 <a href="https://imgur.com/a/5TZ662f">All Ears Unturned Overlay guide</a> — <a href="https://github.com/Nickswoboda/all-ears-unturned">Source</a></td>
+  <td>✔</td>
   <td></td>
 </tr>
 
