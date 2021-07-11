@@ -24,141 +24,498 @@
 
 ### Client data export/preview
 
-- [VisualGGPK2](https://github.com/aianlinb/LibGGPK2)
-- [PyPoE](https://github.com/OmegaK2/PyPoE) <img src="https://img.shields.io/badge/-discontinued-e66">
-- [poe-dat-viewer](https://github.com/SnosMe/poe-dat-viewer)
-- [RePoE (powered by PyPoE)](https://github.com/brather1ng/RePoE)
+- 🖥 [VisualGGPK2](https://github.com/aianlinb/LibGGPK2)
+- 🖥 [PyPoE](https://github.com/OmegaK2/PyPoE) <img src="https://img.shields.io/badge/-discontinued-e66">
+- 🌐 [poe-dat-viewer](https://github.com/SnosMe/poe-dat-viewer)
+- 🖥 [RePoE (powered by PyPoE)](https://github.com/brather1ng/RePoE)
 
 ### Libraries
 
 - [Item popups (JS)](https://github.com/meta-is-beta/horadric-helper)
 - [stash indexer (Rust)](https://github.com/maximumstock/poe-stash-indexer)
 
+### Data
+
+- [Historical PassiveSkillTree json files](https://github.com/poe-tool-dev/passive-skill-tree-json)
+- [Current schema for .dat files](https://github.com/poe-tool-dev/dat-schema/releases)
+
 ## Tools
 
 ℹ️ You can learn a lot (including various pitfalls) by studying the code (and open/closed issues) in these repositories.
 
-### Build planners
+<table>
+<thead>
+<tr>
+  <th>Name</th>
+  <th>3.14 Ready<br><sub>or soon</sub></th>
+  <th>Non-English</th>
+</tr>
+</thead>
 
-- [Path of Building Fork](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
-- [PoESkillTree](https://github.com/PoESkillTree)
-- [poeplanner.com](https://poeplanner.com/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [Aura Calculator](https://gitlab.com/mikelat/poe-calc)
+<tbody>
+<tr>
+  <td colspan="3"><br><br><b>Build planners</b></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://pathofbuilding.community/">Path of Building Fork</a> — <a href="https://github.com/PathOfBuildingCommunity/PathOfBuilding">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/PoESkillTree/PoESkillTree#readme">PoESkillTree</a> — <a href="https://github.com/PoESkillTree">Source</a></td>
+  <td>❌</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poeplanner.com/">poeplanner.com</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe.mikelat.com/">Aura Calculator</a> — <a href="https://gitlab.com/mikelat/poe-calc">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
 
-### Build guide Indexers
 
-- [buildofexile.com](https://www.buildofexile.com)
-- [timtips Build Browser](https://timtips.com/buildbrowser)
-- [poebuilds.cc](https://www.poebuilds.cc/)
-- [poecompanion.com](https://www.poecompanion.com/)
+<tr>
+  <td colspan="3"><br><br><b>Build guide Indexers</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.buildofexile.com">buildofexile.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://timtips.com/buildbrowser">timtips Build Browser</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.poebuilds.cc">poebuilds.cc</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.poecompanion.com">poecompanion.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### Leveling
 
-- [AHK Leveling Guide overlay](https://github.com/JusKillmeQik/PoE-Leveling-Guide)
-- [poe-roadmap.com](https://poe-roadmap.com/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [Leveling guide based off Zizaran's league start video](https://poe-leveling.netlify.app/)
-- [Mobile PoELevellingCompanion](https://fifteenfifty.github.io/PoELevellingCompanion/)
-- [Path of Leveling](https://github.com/karakasis/Path-of-Leveling)
-- [poesyn.xyz - Leveling Guide](http://poesyn.xyz/passives)
+<tr>
+  <td colspan="3"><br><br><b>Leveling</b></td>
+</tr>
+<tr>
+  <td>🖥 AHK <a href="https://github.com/JusKillmeQik/PoE-Leveling-Guide#readme">Leveling Guide overlay</a> — <a href="https://github.com/JusKillmeQik/PoE-Leveling-Guide">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe-roadmap.com">poe-roadmap.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe-leveling.netlify.app">Guide based off Zizaran's league start video</a> — <a href="https://github.com/Blemming/PoE-newleague">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>📱 <a href="https://fifteenfifty.github.io/PoELevellingCompanion/">PoELevellingCompanion</a> — <a href="https://github.com/FifteenFifty/PoELevellingCompanion">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://www.youtube.com/watch?v=xxiOxnJZM-A">Path of Leveling</a> — <a href="https://github.com/karakasis/Path-of-Leveling">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="http://poesyn.xyz/passives">poesyn.xyz - Leveling Guide</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### Price checking (may also have additional features)
 
-- [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade)
-- [PoE Overlay (Overwolf)](https://github.com/Kyusung4698/PoE-Overlay)
-- [PoE Overlay Community (Electron)](https://github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork)
-- [Sidekick](https://github.com/domialex/Sidekick)
-- [lunaris](https://github.com/mtricht/lunaris)
-- [PoE Trade Assistant Next](https://github.com/r52/pta-next)
-- [Xiletrade](https://github.com/maxensas/xiletrade) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [poeprices.info](https://www.poeprices.info/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [Path of Accounting](https://github.com/Ethck/Path-of-Accounting) <img src="https://img.shields.io/badge/-abandoned-e66">
-- [POE-TradeMacro](https://github.com/PoE-TradeMacro/POE-TradeMacro) <img src="https://img.shields.io/badge/-abandoned-e66">
-- [PoE Trade Assistant](https://github.com/r52/PTA) <img src="https://img.shields.io/badge/-abandoned-e66">
+<tr>
+  <td colspan="3"><br><br><b>Price checking (may also have additional features)</b></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://snosme.github.io/awakened-poe-trade/download">Awakened PoE Trade</a> — <a href="https://github.com/SnosMe/awakened-poe-trade">Source</a></td>
+  <td>✔</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://kyusung4698.github.io/PoE-Overlay/">PoE Overlay (Overwolf)</a> — <a href="https://github.com/Kyusung4698/PoE-Overlay">Source</a></td>
+  <td>❌</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork#readme">PoE Overlay Community (Electron)</a> — <a href="https://github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork">Source</a></td>
+  <td>✔</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/domialex/Sidekick#readme">Sidekick</a> — <a href="https://github.com/domialex/Sidekick">Source</a></td>
+  <td>🐛</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/mtricht/lunaris#readme">lunaris</a> — <a href="https://github.com/mtricht/lunaris">Source</a></td>
+  <td>🐛</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/r52/pta-next/wiki">PoE Trade Assistant Next</a> — <a href="https://github.com/r52/pta-next">Source</a></td>
+  <td>❔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/maxensas/xiletrade#readme">Xiletrade</a> — ⚠ Closed-source</td>
+  <td>🐛</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.poeprices.info">poeprices.info</a> — ⚠ Closed-source ML</td>
+  <td>❔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 Path of Accounting — <a href="https://github.com/Ethck/Path-of-Accounting">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 AHK <a href="https://poe-trademacro.github.io/">POE-TradeMacro</a> — <a href="https://github.com/PoE-TradeMacro/POE-TradeMacro">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 PoE Trade Assistant — <a href="https://github.com/r52/PTA">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
 
-### Stash tabs net worth (no rare items)
 
-- [Exilence Next](https://github.com/viktorgullmark/exilence-next/)
-- [Exilence](https://github.com/viktorgullmark/exilence) <img src="https://img.shields.io/badge/-abandoned-e66">
-- [Currency Cop](https://github.com/currency-cop/currency-cop) <img src="https://img.shields.io/badge/-abandoned-e66">
-- [Tab Appraiser](https://github.com/Nickswoboda/tab-appraiser/)
+<tr>
+  <td colspan="3"><br><br><b>Stash tabs net worth (no Rare items)</b></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/viktorgullmark/exilence-next#readme">Exilence Next</a> — <a href="https://github.com/viktorgullmark/exilence-next">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 Exilence — <a href="https://github.com/viktorgullmark/exilence">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 Currency Cop — <a href="https://github.com/currency-cop/currency-cop">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Nickswoboda/tab-appraiser#readme">Tab Appraiser</a> — <a href="https://github.com/Nickswoboda/tab-appraiser">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### Forum Shop updaters
 
-- [Procurement](https://github.com/Stickymaddness/Procurement)
-- [acquisition](https://github.com/xyzz/acquisition) <img src="https://img.shields.io/badge/-abandoned-e66">
+<tr>
+  <td colspan="3"><br><br><b>Forum Shop updaters</b></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Stickymaddness/Procurement#readme">Procurement</a> — <a href="https://github.com/Stickymaddness/Procurement">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 acquisition — <a href="https://github.com/xyzz/acquisition">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
 
-### Trade managers (may also have additional features)
 
-- [POE Trades Companion](https://github.com/lemasato/POE-Trades-Companion)
-- [Menagerie](https://github.com/nomis51/Menagerie)
-- [SlimTrade](https://github.com/zmilla93/SlimTrade)
-- [DeadlyTrade](https://github.com/DeadlyCrush/DeadlyTrade)
-- [Poe Lurker](https://github.com/C1rdec/Poe-Lurker) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [MercuryTrade](https://github.com/Exslims/MercuryTrade) <img src="https://img.shields.io/badge/-abandoned-e66">
-- [MercuryTrade Fork](https://github.com/Morph21/MercuryTrade-Community-Fork)
-- [TraderForPoe](https://github.com/labo89/TraderForPoe) <img src="https://img.shields.io/badge/-abandoned-e66">
+<tr>
+  <td colspan="3"><br><br><b>Trade managers (may also have additional features)</b></td>
+</tr>
+<tr>
+  <td>🖥 AHK <a href="https://github.com/lemasato/POE-Trades-Companion#key-features">POE Trades Companion</a> — <a href="https://github.com/lemasato/POE-Trades-Companion">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/nomis51/Menagerie#readme">Menagerie</a> — <a href="https://github.com/nomis51/Menagerie">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/zmilla93/SlimTrade#readme">SlimTrade</a> — <a href="https://github.com/zmilla93/SlimTrade">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/DeadlyCrush/DeadlyTrade#deadlytrade-main-features-and-useful-functions">DeadlyTrade</a> — <a href="https://github.com/DeadlyCrush/DeadlyTrade">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/C1rdec/Poe-Lurker#key-features">Poe Lurker</a> — ⚠ <a href="https://github.com/C1rdec/Poe-Lurker">Partially Closed-Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Exslims/MercuryTrade#readme">MercuryTrade</a> — <a href="https://github.com/Exslims/MercuryTrade">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Morph21/MercuryTrade-Community-Fork#readme">MercuryTrade Fork</a> — <a href="https://github.com/Morph21/MercuryTrade-Community-Fork">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 TraderForPoe — <a href="https://github.com/labo89/TraderForPoe">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
 
-### Maps
 
-- [exile-diary](https://github.com/briansd9/exile-diary)
-- [Mapwatch](https://github.com/mapwatch/mapwatch)
-- [PoE Atlas](https://poeatlas.net/)
-- [Track atlas completion](https://oriath.net/atlas) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [Track atlas completion (Spreadsheet)](https://docs.google.com/spreadsheets/d/14oWeiQeKtVGs1uZMqst7-Tj8eRmTie8Xc9QPPMEri-g/edit?usp=sharing)
+<tr>
+  <td colspan="3"><br><br><b>Maps</b></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/briansd9/exile-diary/wiki/Configuration">exile-diary</a> — <a href="https://github.com/briansd9/exile-diary">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://mapwatch.erosson.org/">Mapwatch</a> — <a href="https://github.com/mapwatch/mapwatch">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poeatlas.net">PoE Atlas</a> — <a href="https://github.com/John-Paul-R/PoE-Atlas-Website">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://oriath.net/atlas">Track atlas completion</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://docs.google.com/spreadsheets/d/14oWeiQeKtVGs1uZMqst7-Tj8eRmTie8Xc9QPPMEri-g/edit?usp=sharing">Track atlas completion (Spreadsheet)</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
 
-### Racing, ladders
 
-- [poe-racing.com](https://poe-racing.com/standings) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [LiveSplit](https://github.com/brandondong/POE-LiveSplit-Component)
-- [Ladder for unique collectors](https://poeuu.com/)
-- [poe.ninja - Builds](https://poe.ninja/challenge/builds)
-- [poe-profile.info](https://poe-profile.info/)
+<tr>
+  <td colspan="3"><br><br><b>Racing, ladders</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe-racing.com/standings">poe-racing.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/brandondong/POE-LiveSplit-Component#readme">LiveSplit Component</a> — <a href="https://github.com/brandondong/POE-LiveSplit-Component">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poeuu.com">Ladder for unique collectors</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe.ninja/challenge/builds">poe.ninja - Builds</a></td>
+  <td></td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe-profile.info">poe-profile.info</a> — <a href="https://github.com/PoE-Profile">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### Tracking economy from PublicStashTabs API
 
-- [poe.ninja - Economy](https://poe.ninja/challenge/currency) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [poe-antiquary.xyz - Historical data from poe.ninja](https://poe-antiquary.xyz/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [poe.watch](https://poe.watch/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [poe.watch (Old)](https://github.com/nibbydev/poewatch) <img src="https://img.shields.io/badge/-abandoned-e66">
+<tr>
+  <td colspan="3"><br><br><b>Tracking economy from PublicStashTabs API</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe.ninja/challenge/currency">poe.ninja - Economy</a></td>
+  <td></td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe-antiquary.xyz">poe-antiquary.xyz - Historical data from poe.ninja</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe.watch">poe.watch</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 poe.watch (Old) — <a href="https://github.com/nibbydev/poewatch">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
 
-### Fight simulators
 
-- [Uber Elder](https://old.reddit.com/r/pathofexile/comments/8i6vz6/i_made_poe_simulator_a_browser_based_simulacrum/)
-- [Maven memory game](https://old.reddit.com/r/pathofexile/comments/l1vcwt/i_created_a_training_game_for_the_maven_memory/)
+<tr>
+  <td colspan="3"><br><br><b>Fight simulators</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://old.reddit.com/r/pathofexile/comments/8i6vz6/i_made_poe_simulator_a_browser_based_simulacrum">Uber Elder</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://old.reddit.com/r/pathofexile/comments/l1vcwt/i_created_a_training_game_for_the_maven_memory">Maven memory game</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### Web extensions
 
-- [Better trading](https://github.com/exile-center/better-trading)
-- [Impact of an item on your build](https://github.com/FrancoisMentec/PoE-Trade-Extension)
-- [Trade Website Enhancer](https://github.com/ghostscript3r/poe-trade-official-site-enhancer)
+<tr>
+  <td colspan="3"><br><br><b>Web extensions</b></td>
+</tr>
+<tr>
+  <td>🎨 <a href="https://github.com/exile-center/better-trading#readme">Better trading</a> — <a href="https://github.com/exile-center/better-trading">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🎨 <a href="https://github.com/FrancoisMentec/PoE-Trade-Extension#readme">Impact of an item on your build</a> — <a href="https://github.com/FrancoisMentec/PoE-Trade-Extension">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🎨 <a href="https://github.com/ghostscript3r/poe-trade-official-site-enhancer#poe-trade-official-site-enhancer-showcase">Trade Website Enhancer</a> — <a href="https://github.com/ghostscript3r/poe-trade-official-site-enhancer">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### Crafting
 
-- [craftofexile.com](https://www.craftofexile.com/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [PoEDB](https://poedb.tw/us/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [PoETheoryCraft](https://github.com/Sectoidfodder/PoETheoryCraft) <img src="https://img.shields.io/badge/-abandoned-e66">
-- [Crafting simulator](https://github.com/planktoon1/PathofExile_Stash) <img src="https://img.shields.io/badge/-abandoned-e66">
+<tr>
+  <td colspan="3"><br><br><b>Crafting</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.craftofexile.com">craftofexile.com</a></td>
+  <td>✔</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poedb.tw/us/">PoEDB</a></td>
+  <td>✔</td>
+  <td>✔</td>
+</tr>
+<tr>
+  <td>🖥 PoETheoryCraft — <a href="https://github.com/Sectoidfodder/PoETheoryCraft">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 Crafting simulator — <a href="https://github.com/planktoon1/PathofExile_Stash">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
 
-### Hideouts
 
-- [poe.house](https://poe.house/)
-- [hideoutshowcase.com](https://hideoutshowcase.com/)
+<tr>
+  <td colspan="3"><br><br><b>Hideouts</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://hideoutshowcase.com">hideoutshowcase.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poe.house">poe.house</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
-### No category
 
-- [Audio Index](https://oriath.net/audio-index.html) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [LabCompass](https://github.com/yznpku/LabCompass)
-- [Vorici Chromatic Calculator](https://github.com/Siveran/siveran.github.io)
-- [Mystery Box Calculator](https://github.com/Esipode/Mystery-Box-Calculator)
-- [AHK Map Region Searcher](https://github.com/Fallstreak6/PoE-Region-Searcher)
-- [AHK overlay to search by keywords in stash](https://github.com/Nekolike/Mappy)
-- [poemap.live](https://poemap.live/) <img src="https://img.shields.io/badge/-closed_source-eee">
-- [PoETiS, searching inside stash](https://github.com/Essyer/PoETiS)
-- [POEAlerts, Danger map alert](https://github.com/Benjamin-Ing/POEAlerts)
-- [Blight Anointing Recipes](https://blight.raelys.com/)
-- [PoE Weighted Search](https://github.com/xanthics/PoE_Weighted_Search)
-- [poesyn.xyz Cheatsheets](http://poesyn.xyz/)
-- [wraeclast.com Cheatsheets](https://wraeclast.com/)
-- [Cheat Sheets in GoogleDocs](https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/edit#gid=1983365983)
-- [Profitability of farmable encounters](https://www.poeprofit.com/)
+<tr>
+  <td colspan="3"><br><br><b>No category</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://oriath.net/audio-index.html">Audio Index</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/yznpku/LabCompass#readme">LabCompass</a> — <a href="https://github.com/yznpku/LabCompass">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://siveran.github.io/calc.html">Vorici Chromatic Calculator</a> — <a href="https://github.com/Siveran/siveran.github.io">Source</a></td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.mtxcalc.com/">Mystery Box Calculator</a> — <a href="https://github.com/Esipode/Mystery-Box-Calculator">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://poemap.live">poemap.live</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://blight.raelys.com">Blight Anointing Recipes</a> — <a href="https://github.com/mattantonelli/poe-blight">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://xanthics.github.io/PoE_Weighted_Search/">PoE Weighted Search</a> — <a href="https://github.com/xanthics/PoE_Weighted_Search">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.poeprofit.com">Profitability of farmable encounters</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
+
+<tr>
+  <td colspan="3"><br><br><b>Cheatsheets</b></td>
+</tr>
+<tr>
+  <td>📄 <a href="http://poesyn.xyz">poesyn.xyz Cheatsheets</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>📄 <a href="https://wraeclast.com">wraeclast.com Cheatsheets</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>📄 <a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/edit#gid=1983365983">Cheatsheets in GoogleDocs</a></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+<!--tr>
+  <td colspan="3"><br><br><b>HEADER_NAME</b></td>
+</tr>
+<tr>
+  <td><a href="README_LINK">INSERT_NAME_HERE</a> — <a href="REPO_LINK">Source</a></td>
+  <td></td>
+  <td></td>
+</tr-->
+
+</tbody>
+</table>
