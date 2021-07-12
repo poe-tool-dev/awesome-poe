@@ -467,7 +467,7 @@
   <td></td>
 </tr>
 <tr>
-  <td>🎨 <a href="https://www.reddit.com/r/pathofexile/comments/l2oyu1/update_for_my_css_you_can_easily_use_in_browser/gk6j0ql/?utm_source=share&utm_medium=web2x&context=3">PoE custom layout(bulk trade)</a></td>
+  <td>🎨 <a href="https://www.reddit.com/r/pathofexile/comments/l2oyu1/update_for_my_css_you_can_easily_use_in_browser/gk6j0ql/?utm_source=share&utm_medium=web2x&context=3">Custom layout for Bulk trade page</a></td>
   <td></td>
   <td></td>
 </tr>
