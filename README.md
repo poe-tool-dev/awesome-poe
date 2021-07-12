@@ -6,7 +6,7 @@
 
 - [API Reference, Rate Limits, OAuth](https://www.pathofexile.com/developer/docs) <img src="https://img.shields.io/badge/-official-000">
 - [Website APIs Changes](https://www.pathofexile.com/forum/view-forum/674) <img src="https://img.shields.io/badge/-official-000">
-- [Website APIs on SwaggerHub](https://app.swaggerhub.com/apis/Chuanhsing/poe/1.0.0)
+- [Website APIs on SwaggerHub](https://poedb.tw/us/poe-api)
 
 ### Client
 
@@ -309,6 +309,46 @@
 
 
 <tr>
+  <td colspan="3"><br><br><b>Labyrinth</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.poelab.com/">poelab.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/yznpku/LabCompass#readme">LabCompass</a> — <a href="https://github.com/yznpku/LabCompass">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+<tr>
+  <td colspan="3"><br><br><b>Item Filter generators</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.filterblade.xyz/">FilterBlade</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://grinding.zone/">grinding.zone</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://filterblast.xyz/">filterblast.xyz</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Xeverous/filter_spirit#overview">Filter Spirit</a> — <a href="https://github.com/Xeverous/filter_spirit">Source</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+
+
+<tr>
   <td colspan="3"><br><br><b>Maps</b></td>
 </tr>
 <tr>
@@ -426,6 +466,11 @@
   <td></td>
   <td></td>
 </tr>
+<tr>
+  <td>🎨 <a href="https://www.reddit.com/r/pathofexile/comments/l2oyu1/update_for_my_css_you_can_easily_use_in_browser/gk6j0ql/?utm_source=share&utm_medium=web2x&context=3">Custom layout for Bulk trade page</a></td>
+  <td></td>
+  <td></td>
+</tr>
 
 
 <tr>
@@ -473,11 +518,6 @@
 </tr>
 <tr>
   <td>🌐 <a href="https://oriath.net/audio-index.html">Audio Index</a></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>🖥 <a href="https://github.com/yznpku/LabCompass#readme">LabCompass</a> — <a href="https://github.com/yznpku/LabCompass">Source</a></td>
   <td></td>
   <td></td>
 </tr>
