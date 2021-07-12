@@ -6,7 +6,7 @@
 
 - [API Reference, Rate Limits, OAuth](https://www.pathofexile.com/developer/docs) <img src="https://img.shields.io/badge/-official-000">
 - [Website APIs Changes](https://www.pathofexile.com/forum/view-forum/674) <img src="https://img.shields.io/badge/-official-000">
-- [Website APIs on SwaggerHub](https://app.swaggerhub.com/apis/Chuanhsing/poe/1.0.0)
+- [Website APIs on SwaggerHub](https://poedb.tw/us/poe-api)
 
 ### Client
 
@@ -307,6 +307,23 @@
   <td></td>
 </tr>
 
+<tr>
+  <td colspan="3"><br><br><b>Labyrinth</b></td>
+</tr>
+<tr>
+  <td><a href="https://www.poelab.com/">poelab</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="3"><br><br><b>Item Filter</b></td>
+</tr>
+<tr>
+  <td><a href="https://www.filterblade.xyz/">FilterBlade</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
 
 <tr>
   <td colspan="3"><br><br><b>Maps</b></td>
@@ -423,6 +440,11 @@
 </tr>
 <tr>
   <td>🎨 <a href="https://github.com/ghostscript3r/poe-trade-official-site-enhancer#poe-trade-official-site-enhancer-showcase">Trade Website Enhancer</a> — <a href="https://github.com/ghostscript3r/poe-trade-official-site-enhancer">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🎨 <a href="https://www.reddit.com/r/pathofexile/comments/l2oyu1/update_for_my_css_you_can_easily_use_in_browser/gk6j0ql/?utm_source=share&utm_medium=web2x&context=3">PoE custom layout(bulk trade)</a></td>
   <td></td>
   <td></td>
 </tr>
