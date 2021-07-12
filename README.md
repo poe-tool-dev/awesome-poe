@@ -307,23 +307,46 @@
   <td></td>
 </tr>
 
+
 <tr>
   <td colspan="3"><br><br><b>Labyrinth</b></td>
 </tr>
 <tr>
-  <td><a href="https://www.poelab.com/">poelab</a></td>
+  <td>🌐 <a href="https://www.poelab.com/">poelab.com</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/yznpku/LabCompass#readme">LabCompass</a> — <a href="https://github.com/yznpku/LabCompass">Source</a></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+<tr>
+  <td colspan="3"><br><br><b>Item Filter generators</b></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://www.filterblade.xyz/">FilterBlade</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://grinding.zone/">grinding.zone</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://filterblast.xyz/">filterblast.xyz</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
+<tr>
+  <td>🖥 <a href="https://github.com/Xeverous/filter_spirit#overview">Filter Spirit</a> — <a href="https://github.com/Xeverous/filter_spirit">Source</a></td>
   <td>✔</td>
   <td></td>
 </tr>
 
-<tr>
-  <td colspan="3"><br><br><b>Item Filter</b></td>
-</tr>
-<tr>
-  <td><a href="https://www.filterblade.xyz/">FilterBlade</a></td>
-  <td>✔</td>
-  <td></td>
-</tr>
 
 <tr>
   <td colspan="3"><br><br><b>Maps</b></td>
@@ -495,11 +518,6 @@
 </tr>
 <tr>
   <td>🌐 <a href="https://oriath.net/audio-index.html">Audio Index</a></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>🖥 <a href="https://github.com/yznpku/LabCompass#readme">LabCompass</a> — <a href="https://github.com/yznpku/LabCompass">Source</a></td>
   <td></td>
   <td></td>
 </tr>
